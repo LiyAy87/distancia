@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practicas on Example use language</title>
+    <link>http://LiyAy87.github.io//distancia/en/teoria/practicas/</link>
+    <description>Recent content in Practicas on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 20:00:13 +0100</lastBuildDate>
+    
+	<atom:link href="http://LiyAy87.github.io//distancia/en/teoria/practicas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://LiyAy87.github.io//distancia/en/teoria/practicas/tarea2/</link>
+      <pubDate>Mon, 08 Nov 2021 20:02:56 +0100</pubDate>
+      
+      <guid>http://LiyAy87.github.io//distancia/en/teoria/practicas/tarea2/</guid>
+      <description>About me
+A little bit about me    Data      Name: Patricia   1st Surname: Colás   2nd Surname: Barriocanal   E-mail pcbarriocanal@gmail.com     Study in CPIFP The Enlaces
+   I am studying the Higher Degree of Development and Web Applications
+     I still have to finish the subjects of:    DWEC DWES     My Linkedin Profile</description>
+    </item>
+    
+    <item>
+      <title>Process of loading</title>
+      <link>http://LiyAy87.github.io//distancia/en/teoria/practicas/tarea1/</link>
+      <pubDate>Mon, 08 Nov 2021 20:02:47 +0100</pubDate>
+      
+      <guid>http://LiyAy87.github.io//distancia/en/teoria/practicas/tarea1/</guid>
+      <description>PROCESS OF LOADING A WEB PAGE  Lorem   Task DWES
+ - Testing highlighting + de Sintax  Lorem&amp;hellip; &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   leer mas   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+  </channel>
+</rss>

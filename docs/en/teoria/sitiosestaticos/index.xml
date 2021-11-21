@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitios Estaticos on Example use language</title>
+    <link>http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/</link>
+    <description>Recent content in Sitios Estaticos on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 19:59:57 +0100</lastBuildDate>
+    
+	<atom:link href="http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Channels</title>
+      <link>http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/canales/</link>
+      <pubDate>Fri, 19 Nov 2021 19:51:35 +0100</pubDate>
+      
+      <guid>http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/canales/</guid>
+      <description>List of TV channels  </description>
+    </item>
+    
+    <item>
+      <title>My Template</title>
+      <link>http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/mi_plantilla/</link>
+      <pubDate>Thu, 11 Nov 2021 22:54:35 +0100</pubDate>
+      
+      <guid>http://LiyAy87.github.io//distancia/en/teoria/sitiosestaticos/mi_plantilla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

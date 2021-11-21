@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://LiyAy87.github.io/distancia/es/sitemap.xml</loc>
+		
+	   	<lastmod>2021-11-19T19:51:35+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://LiyAy87.github.io/distancia/en/sitemap.xml</loc>
+		
+	   	<lastmod>2021-11-19T19:51:35+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://LiyAy87.github.io/distancia/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2021-11-19T19:51:35+01:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
